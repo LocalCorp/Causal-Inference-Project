@@ -15,13 +15,10 @@ This repository contains the code and documentation for my research project on t
 
 ## Project Structure
 - `data/`: Contains datasets used in the analysis.
-- `notebooks/`: Jupyter notebooks for data analysis and methodology development.
 - `reports/`: Formal reports and documentation.
 
 ## Dependencies
 - Python 3.x
-- Jupyter Notebooks
-- [List any additional dependencies]
 
 ## Contributions
 Contributions are welcome! Feel free to open issues for bugs, feature requests, or submit pull requests.
